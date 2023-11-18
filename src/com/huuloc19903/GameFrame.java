@@ -1,3 +1,5 @@
+package com.huuloc19903;
+
 import javax.swing.*;
 
 public class GameFrame extends JFrame {
